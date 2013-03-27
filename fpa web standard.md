@@ -14,7 +14,7 @@ background: bg_img.jpg
 
 topbackground: topbg.jpg
 
-边框内: #f1f1f1;<div class="test" style="width: 100px; height: 20px; background-color: #f1f1f1;"></div>
+边框内: #f1f1f1;<p class="test" style="width: 100px; height: 20px; background-color: #f1f1f1;"></p>
 边框颜色: #aaa; <div class="test" style="width: 100px; height: 20px; background-color: #aaa;"></div>
 标准字体颜色: #666 <div class="test" style="width: 100px; height: 20px; background-color: #666;"></div>
 清淡字体颜色: #aaa <div class="test" style="width: 100px; height: 20px; background-color: #aaa;"></div>
